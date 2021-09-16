@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/bin/Debug/netcoreapp3.1/ReversetheNumber.deps.json
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/bin/Debug/netcoreapp3.1/ReversetheNumber.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/bin/Debug/netcoreapp3.1/ReversetheNumber.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/bin/Debug/netcoreapp3.1/ReversetheNumber.dll
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/bin/Debug/netcoreapp3.1/ReversetheNumber.pdb
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.dll
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.pdb
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/ReversetheNumber/ReversetheNumber/obj/Debug/netcoreapp3.1/ReversetheNumber.genruntimeconfig.cache

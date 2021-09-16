@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.AssemblyInfo.cs
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/bin/Debug/netcoreapp3.1/Fibonacci_Series.deps.json
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/bin/Debug/netcoreapp3.1/Fibonacci_Series.runtimeconfig.json
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/bin/Debug/netcoreapp3.1/Fibonacci_Series.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/bin/Debug/netcoreapp3.1/Fibonacci_Series.dll
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/bin/Debug/netcoreapp3.1/Fibonacci_Series.pdb
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.dll
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.pdb
+/Users/ramchandran/Desktop/C#/Day 6 Assignment/Fibonacci_Series/Fibonacci_Series/obj/Debug/netcoreapp3.1/Fibonacci_Series.genruntimeconfig.cache
